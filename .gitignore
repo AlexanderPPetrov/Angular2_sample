@@ -50,3 +50,6 @@ logs
 routes
 views
 bin
+
+# Node files
+app.js
