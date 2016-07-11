@@ -45,3 +45,8 @@ node_modules
 # Logs
 logs
 *.log
+
+# Node.js Directories
+routes
+views
+bin
